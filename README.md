@@ -5,7 +5,7 @@
 - [About](#about)
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
-- [Citing ΑΙΜ](#citing-bsam)
+- [Citing ΑΙΜ](#citing-aim)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
