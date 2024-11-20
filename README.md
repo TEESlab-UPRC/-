@@ -12,9 +12,10 @@
 ## About
 The Adaptive polIcymaking Model (AIM) is a decision support model which enables the exploratory analysis of policy/strategy pathways towards the achievement of one or multiple targets, identifying in parallel their conditions of success. To do so, AIM performs meta-analysis of simulations models’ outputs, and evaluates the performance of selected policies/strategies over many combinations of a large number of contextual uncontrollable variables (scenarios). Then, it visualizes successful policy pathways towards a predefined target, and sets up a monitoring system for real-world policy adaptations in case of unexpected contextual future evolutions.
 
-The novelty of AIM lies in (i) using a simple clustering logic, thus it can be easily adapted for soft-linking with a wide variety of models, (ii) generating adaptive policies for different contexts, by changing the limits of the uncontrollable variables (scenarios), making it a useful tool for application at various scales and contexts, and (iii) facilitating interactive stakeholder consultation for the design of policy pathways, through real-time and easily interpretable visualizations. ΑΙΜ is written in Python. 
+The novelty of AIM lies in (i) using a simple clustering logic, thus it can be easily adapted for soft-linking with a wide variety of models, (ii) generating adaptive policies for different contexts, by changing the limits of the uncontrollable variables (scenarios), making it a useful tool for application at various scales and contexts, and (iii) facilitating interactive stakeholder consultation for the design of policy pathways, through real-time and easily interpretable visualizations.  
 
 ## Quick start
+ΑΙΜ is written in Python.
 * Install Python 3.9
 * Download ΑΙΜ from Github and save it in a folder of your preference
 * Using a terminal (command line) navigate to the folder where ΑΙΜ is saved 
