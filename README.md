@@ -1,3 +1,5 @@
+![AIM-01_cropped](https://github.com/user-attachments/assets/dc6a69f1-6a10-4042-a7ee-093a3e01b9dd)
+
 ## Contents
 - [Contents](#contents)
 - [About](#about)
