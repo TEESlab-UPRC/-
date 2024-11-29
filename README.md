@@ -23,7 +23,7 @@ The novelty of AIM lies in (i) using a simple clustering logic, thus it can be e
 * Type python main.py to run the preconfigured example
 
 ## Documentation
-The documentation of AIM will soon be available.
+Read the full [documentation](https://teeslab.unipi.gr/wp-content/uploads/2024/11/%CE%91%CE%99%CE%9C-Documentation_v1.0.pdf)
 
 ## Citing AIM
 In academic literature please cite AIM as: 
